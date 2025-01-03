@@ -30,6 +30,6 @@ This chapter delves into multiprocessing in Python.
   - ![pipe](https://github.com/user-attachments/assets/39191ce5-c04b-491d-9617-a802454dee6d)
 
   - spawningprocesses.py
-  - no o/p executable code only
+    no o/p executable code only
    
 
