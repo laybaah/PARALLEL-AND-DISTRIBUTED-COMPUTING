@@ -23,6 +23,7 @@ This chapter delves into multiprocessing in Python.
     ![pd](https://github.com/user-attachments/assets/8c2919df-e837-4f87-b051-2460f5c320d0)
 
   - namingprocesses
+    
     ![caputre2](https://github.com/user-attachments/assets/0b728037-525c-4e38-a195-c1f99800f381)
 
   - pipecommunicating.py
