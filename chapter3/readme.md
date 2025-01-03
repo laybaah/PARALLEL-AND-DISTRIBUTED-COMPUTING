@@ -17,6 +17,7 @@ This chapter delves into multiprocessing in Python.
 
 5. **CODES**
   - bgprocesses.py
+<<<<<<< HEAD
   - killingprocesses.py
   - namingprocesses
   - pipecommunicating.py
@@ -27,3 +28,23 @@ This chapter delves into multiprocessing in Python.
  
 
  
+=======
+    no o/p only executable code
+    
+  - killingprocesses.py
+    ![pd](https://github.com/user-attachments/assets/8c2919df-e837-4f87-b051-2460f5c320d0)
+
+  - namingprocesses
+    
+    ![caputre2](https://github.com/user-attachments/assets/0b728037-525c-4e38-a195-c1f99800f381)
+
+  - pipecommunicating.py
+    
+   ![pipe](https://github.com/user-attachments/assets/39191ce5-c04b-491d-9617-a802454dee6d)
+
+  - spawningprocesses.py
+    
+    no o/p executable code only
+   
+
+>>>>>>> 566acb89a8fa0ed5f0a5f8aacde69de24e9dccae
