@@ -27,9 +27,11 @@ This chapter delves into multiprocessing in Python.
     ![caputre2](https://github.com/user-attachments/assets/0b728037-525c-4e38-a195-c1f99800f381)
 
   - pipecommunicating.py
-  - ![pipe](https://github.com/user-attachments/assets/39191ce5-c04b-491d-9617-a802454dee6d)
+    
+   ![pipe](https://github.com/user-attachments/assets/39191ce5-c04b-491d-9617-a802454dee6d)
 
   - spawningprocesses.py
+    
     no o/p executable code only
    
 
