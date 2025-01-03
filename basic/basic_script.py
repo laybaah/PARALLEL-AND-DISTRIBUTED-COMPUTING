@@ -60,19 +60,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Code 4: Fibonacci Sequence Function
-def fibonacci(n):
-    sequence = []
-    a, b = 0, 1
-    while a < n:
-        sequence.append(a)
-        a, b = b, a + b
-    return sequence
-
-def main():
-    limit = int(input("Enter the limit for Fibonacci sequence: "))
-    print("Fibonacci sequence up to", limit, ":", fibonacci(limit))
-
-if __name__ == "__main__":
-    main()
-
