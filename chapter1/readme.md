@@ -23,10 +23,10 @@ This chapter introduces parallel computing concepts, architectures, and Python p
    - multiprocessing.py
    - numbacoda.py
    - numpy_data_parallelism 
-   -parallelvector_threadpool.py
+   - parallelvector_threadpool.py
    - producerCons.py
-   -semaphore_rac.py
-   -square_cube.py
-   -test.py
-   -threadpoolexeuter.py
+   - semaphore_rac.py
+   - square_cube.py
+   - test.py
+   - threadpoolexeuter.py
    
